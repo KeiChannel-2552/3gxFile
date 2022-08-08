@@ -1,2 +1,2 @@
-# 3gx-
+# 3gx file
 YouTubeで使っているファイルです！
